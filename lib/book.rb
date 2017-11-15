@@ -5,6 +5,6 @@ class Book
   end
 
   def title
-    new_title
+    @title
   end
 end
